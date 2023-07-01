@@ -1,7 +1,7 @@
 # Olá, Bem-vindo ao meu perfil do Github!
 
-### Me chamo Gabriel silva e tenho 20 anos, estudo Analise e desenvolvimento de sistemas na UNIP😉
-Atualmente estou estundo para me tornar um desenvolvedor back-end porém tenho conhecimento e estudo outras areas para me tornar um desenvolvedor completo, e diariamente com a plataforma da Alura me apronfundo ainda mais em diversos conteúdos 
+### Me chamo Gabriel silva e tenho 20 anos, estudo Analise e desenvolvimento de sistemas na UNIP😉 
+
 ##
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCruz02&hide=contribs&count_private=true&show_icons=true&theme=github_dark_dimmed)
