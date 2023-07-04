@@ -1,6 +1,6 @@
 # Olá, Bem-vindo ao meu perfil do Github!
 
-### Me chamo Gabriel silva e tenho 20 anos, estudo Analise e desenvolvimento de sistemas na UNIP😉 
+### Me chamo Gabriel silva e tenho 20 anos, estudo Analise e desenvolvimento de sistemas na UNIP 
 
 ##
 
