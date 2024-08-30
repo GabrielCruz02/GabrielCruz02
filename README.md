@@ -1,6 +1,6 @@
 # Olá, Bem-vindo ao meu perfil do Github!
 
-### Me chamo Gabriel silva e tenho 22 anos, Prazer!!
+### Me chamo Gabriel Cruz e tenho 22 anos, Prazer!!
 
 ##
 
